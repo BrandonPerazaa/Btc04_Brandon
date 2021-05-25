@@ -212,14 +212,14 @@
 			</li>
 			<li class="menu-item hidden"><a href="https://forum.codeigniter.com/" target="_blank">Community</a></li>
 			<li class="menu-item hidden"><a
-					href="https://github.com/codeigniter4/CodeIgniter4/blob/master/CONTRIBUTING.md" target="_blank">Contribute</a>
+					href="https://github.com/codeigniter4/CodeIgniter4/blob/develop/CONTRIBUTING.md" target="_blank">Contribute</a>
 			</li>
 		</ul>
 	</div>
 
 	<div class="heroe">
 
-		<h1> Brandon Peraza <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
+		<h1>Welcome to CodeIgniter <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
 
 		<h2>The small framework with powerful features</h2>
 
